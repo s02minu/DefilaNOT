@@ -8,6 +8,13 @@ The dashboard was developed as part of an academic project and is designed to ac
 
 While the current version uses **simulated and limited data**, the **data model and architecture were built to support future integration with live, reliable APIs**.
 
+
+[![DeFi Analytics Dashboard Preview](assets/dashboard_preview.png)](dashboard/DeFi-Analytics-Dashboard.pbix)
+
+> This screenshot shows the current state of the dashboard.
+> 👉 **[Open the Power BI Dashboard](https://app.powerbi.com/links/q-x8qtwY8F?ctid=00d4521c-d27c-4570-bc5b-1f1018eef95c&pbi_source=linkShare)**
+
+
 ---
 
 ## 🎯 Objectives
@@ -75,17 +82,6 @@ This project was built as part of an academic assignment to demonstrate:
 - Data visualization best practices  
 - Analytical reasoning in DeFi and blockchain contexts  
 - Scalable dashboard and data-model design  
-
----
-
-## 🖼 Dashboard Preview
-
-Click the image below to open the Power BI dashboard.
-
-[![DeFi Analytics Dashboard Preview](assets/dashboard_preview.png)](dashboard/DeFi-Analytics-Dashboard.pbix)
-
-> This screenshot shows the current state of the dashboard.  
-> Download and open the `.pbix` file in Power BI to explore the full interactive version.
 
 ---
 
