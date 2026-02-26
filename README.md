@@ -12,7 +12,7 @@ While the current version uses **simulated and limited data**, the **data model 
 [![DeFi Analytics Dashboard Preview](assets/dashboard_preview.png)](dashboard/DeFi-Analytics-Dashboard.pbix)
 
 > This screenshot shows the current state of the dashboard.
-> 👉 **[Open the Power BI Dashboard](https://app.powerbi.com/links/q-x8qtwY8F?ctid=00d4521c-d27c-4570-bc5b-1f1018eef95c&pbi_source=linkShare)**
+> 👉 **[Dowmload the dashboard to interact with it](dashboard/DeFi-Analytics-Dashboard.pbix)**
 
 
 ---
