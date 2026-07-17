@@ -2,11 +2,12 @@
 
 ## 📌 Project Overview
 
-This project is a **DeFi analytics dashboard** inspired by platforms such as **DeFiLlama**, with a strong focus on **visual clarity, usability, and exploratory analysis**.
 
-The dashboard was developed as part of an academic project and is designed to act as a **centralized analytical layer** for blockchain networks, DeFi metrics, and ecosystem-level insights.
+This project is a DeFi analytics dashboard inspired by platforms such as **DeFiLlama**, designed to explore blockchain ecosystems through interactive data visualization and analytical storytelling.
 
-While the current version uses **simulated and limited data**, the **data model and architecture were built to support future integration with live, reliable APIs**.
+The dashboard was developed as part of an academic project, with the objective of creating a centralized analytical layer for blockchain networks, DeFi metrics, and ecosystem-level comparisons.
+
+The underlying data model and dashboard architecture were designed with future integration of real-world blockchain data sources and APIs in mind.
 
 
 [![DeFi Analytics Dashboard Preview](assets/dashboard_preview.png)](dashboard/DeFi-Analytics-Dashboard.pbix)
